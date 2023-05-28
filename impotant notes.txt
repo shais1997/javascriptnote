@@ -1,0 +1,40 @@
+Why we learn javascript 
+javascript is a language of browser or webpages
+it increase the interactivity of web pages
+use for formvalidation 
+
+
+COMMENTS IN JAVASCRIPT 
+comments in javascript have two type first one single line comments 
+and seconed is multiline comments
+
+
+single line comments
+//this double slash use for single line comments
+
+
+multiline comments
+/*gtljkadf
+adsfadsfadsf
+asdfsdf
+8*/
+
+
+importance of comments
+it is empower our code 
+easy to understand for another developer
+it is also ease for us too to remeber when we reedit
+
+
+semicolon ;
+we use semicolon ; in javascript for separation in our code
+just like we use . for seperation in english sentences
+
+due to automatic semicolon functionality in browser we are not 
+bound to use ; in our code but sometime it is necessary for clarity 
+or stylish to our code
+
+
+diff b/w enter and shift+enter
+after the code when we press enter console shows output or run the code
+but shift enter not run code it move us in seconed line
