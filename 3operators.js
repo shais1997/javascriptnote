@@ -16,3 +16,24 @@ if(a>3){
 if(a>8 && a<10){
     console.log('it is 9')
 }
+
+/*more example of operator 
+
+=== strick equality operator ===
+
+value and data type both are equal than retutn true otherwise false
+
+5===5 return true results
+but
+5==='5' return false because data type are not equal 
+
+on other hand 
+
+5==5 return true
+5=='5' also return true 
+
+same above logic implement on !== strickly not equal to operator
+
+
+
+*/
