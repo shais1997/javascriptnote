@@ -1,0 +1,9 @@
+> developt in 10 days in 1995 by brendan Eich for some basic functionality for netscape browser such as mouseover
+> in 1996 netscape collaborate with ECMA euorpean computer manufacturers and association and ECMAscript standard was 
+publish in 1997 named ECMA 262
+> There have been 12 ECMA-262 updates - the first one was in 1997
+> through javascript code we interact with javascript engine 
+> and javascript engine is the building block of browsers which have its own depth
+> befor 2009 we can run javascript only in browser 
+> after 2009 when node js built by ryan dahi it is possible to run javascript program outside of browsers
+> Today, JavaScript is ubiquitous and is running in browsers, on servers, actually, on any device that can run a JavaScript engine.
